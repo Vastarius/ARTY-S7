@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:F:/Professionnel/ARTY_7/working_dir/ARTY-S7/Constraints/1.Blink_Arty-S7-50-Master.xdc rfile:../../../../Constraints/1.Blink_Arty-S7-50-Master.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:9 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN R2    IOSTANDARD SSTL135 } [get_ports { CLK100MHZ }]; #IO_L12P_T1_MRCC_34 Sch=ddr3_clk[200]
+set_property src_info {type:XDC file:1 line:27 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN E18   IOSTANDARD LVCMOS33 } [get_ports { LD2 }]; #IO_L16N_T2_A27_15 Sch=led[2]
+set_property src_info {type:XDC file:1 line:33 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN G15   IOSTANDARD LVCMOS33 } [get_ports { BTN0 }]; #IO_L18N_T2_A23_15 Sch=btn[0]
