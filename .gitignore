@@ -86,6 +86,6 @@
 !*.xmp
 !*/Vivado/src
 !*/Vivado/constraints
-!*/Vivado/ip_repo
+!*/Vivado/ip
 !*/Vivado/build.tcl
 */Vivado/*
