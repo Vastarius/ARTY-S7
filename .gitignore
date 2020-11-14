@@ -84,5 +84,8 @@
 !*.elf
 !*.bmm
 !*.xmp
-
-*/Vivado/myproject
+!*/Vivado/src
+!*/Vivado/constraints
+!*/Vivado/ip_repo
+!*/Vivado/build.tcl
+*/Vivado/*
